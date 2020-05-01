@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>company</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>70</order>
+        <record_id_field/>
+        <screen display_value="Details">e6783c4ddbecdc10282fccd8139619dd</screen>
+        <screen_data_item_table>x_snc_visman_access</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:21:40</sys_created_on>
+        <sys_id>e2787c4ddbecdc10282fccd81396190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>company</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_sg_screen_field_e2787c4ddbecdc10282fccd81396190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:21:40</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=e2787c4ddbecdc10282fccd81396190e"/>
+</record_update>

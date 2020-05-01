@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>A brand new experience for your guests.</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Card">da78b04ddbecdc10282fccd8139619fd</icon>
+        <item_view display_value="Access Detail Screen Item View">e2783c4ddbecdc10282fccd8139619db</item_view>
+        <name>Access Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:21:40</sys_created_on>
+        <sys_id>ea783c4ddbecdc10282fccd8139619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Access Form Screen</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_sg_form_screen_ea783c4ddbecdc10282fccd8139619dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:21:40</sys_updated_on>
+        <table>x_snc_visman_access</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ea783c4ddbecdc10282fccd8139619dc"/>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Visitor Management Invitation">da78f04ddbecdc10282fccd813961902</data_item>
+        <dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"TextAlignment":"Center","Text":"","TextColor":"#293e40","BackgroundColor":"#f1f1f1","Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"CornerRadius":2,"CellId":"state","MaxLines":1,"studio_template_field_id":"E1","Type":"Text"}],"Alignment":"Left","Distribution":"Auto","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Right","Text":"","TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"CellId":"number","MaxLines":1,"studio_template_field_id":"E2","Type":"Text"}],"Alignment":"Right","Distribution":"Auto","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","Distribution":"Equal","Orientation":"Horizontal","Type":"ViewGroup"},{"TextAlignment":"Left","Text":"","TextColor":"#293e40","Font":{"Weight":"regular","Size":18},"CellId":"short_description","MaxLines":2,"studio_template_field_id":"E3","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","Text":"${opened_by}","TextColor":"#7d8a8c","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"MaxLines":1,"studio_template_field_id":"E4","Margin":{"Right":8},"Type":"Text"},{"Scaling":"Fill","Width":22,"Height":22,"CornerRadius":11,"CellId":"opened_by.avatar","studio_template_field_id":"E5","Margin":{"Right":6},"Type":"Image"},{"TextAlignment":"Left","Text":"","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"CellId":"opened_by","MaxLines":1,"studio_template_field_id":"E4","Type":"Text"}],"Alignment":"Center","Distribution":"Auto","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","Text":"${priority}","TextColor":"#7d8a8c","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"MaxLines":1,"studio_template_field_id":"E6","Margin":{"Right":8},"Type":"Text"},{"TextAlignment":"Left","Text":"","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"CellId":"priority","MaxLines":1,"studio_template_field_id":"E6","Type":"Text"}],"Alignment":"Center","Distribution":"Auto","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Alignment":"Left","Distribution":"Auto","Orientation":"Vertical","Type":"ViewGroup"}],"Alignment":"Stretch","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Distribution":"Auto","Orientation":"Vertical","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>Invitation Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:21:39</sys_created_on>
+        <sys_id>1e783c4ddbecdc10282fccd813961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invitation Detail Screen Item View</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_sg_item_view_1e783c4ddbecdc10282fccd813961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:21:39</sys_updated_on>
+        <table>x_snc_visman_invitation</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e783c4ddbecdc10282fccd813961933"/>
+</record_update>

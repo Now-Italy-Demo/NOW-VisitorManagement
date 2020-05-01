@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Access Item Stream">6a783c4ddbecdc10282fccd8139619df</item_stream>
+        <master_item display_value="Access master_item">ee783c4ddbecdc10282fccd8139619e0</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:21:40</sys_created_on>
+        <sys_id>ea783c4ddbecdc10282fccd8139619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_ea783c4ddbecdc10282fccd8139619e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:21:40</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Access Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Access">ee783c4ddbecdc10282fccd8139619db</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:21:40</sys_created_on>
+        <sys_id>ee783c4ddbecdc10282fccd8139619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Access Item Stream Segment</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_ee783c4ddbecdc10282fccd8139619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:21:40</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

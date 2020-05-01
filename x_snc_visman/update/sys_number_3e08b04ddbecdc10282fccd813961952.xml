@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_visman_access">x_snc_visman_access</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ACC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:19:47</sys_created_on>
+        <sys_id>3e08b04ddbecdc10282fccd813961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ACC</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_number_3e08b04ddbecdc10282fccd813961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:19:47</sys_updated_on>
+    </sys_number>
+</record_update>

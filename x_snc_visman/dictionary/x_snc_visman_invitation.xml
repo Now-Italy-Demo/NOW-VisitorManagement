@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Invitation" max_length="40" name="x_snc_visman_invitation" type="collection"/>
+</database>
