@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 11:17:18</sys_created_on>
+        <sys_id>5f150d01db601050282fccd813961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_visman_guest.x_snc_visman.reportuser</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_security_acl display_value="x_snc_visman_guest">dc848dcddb201050282fccd81396193b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5f150d01db601050282fccd813961913</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 11:17:18</sys_updated_on>
+        <sys_user_role display_value="x_snc_visman.reportuser" name="x_snc_visman.reportuser">b686b0c9dbecdc10282fccd8139619b6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
