@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_visman_invitation" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_visman_rsvp" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Draft</label>
+            <label>Ready to send</label>
             <language>en</language>
-            <name>x_snc_visman_invitation</name>
-            <sequence>10</sequence>
+            <name>x_snc_visman_rsvp</name>
+            <sequence>5</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-01 11:07:33</sys_created_on>
+            <sys_created_on>2020-05-01 14:05:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3de2894ddb201050282fccd8139619ef</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>7bbbe981db241050282fccd8139619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-01 11:09:26</sys_updated_on>
+            <sys_updated_on>2020-05-01 14:05:56</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invite sent</label>
+            <language>en</language>
+            <name>x_snc_visman_rsvp</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-01 13:57:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfc929cddbe01050282fccd813961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-01 13:57:24</sys_updated_on>
             <value>10</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -24,37 +43,18 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Sending invite</label>
+            <label>Accepted</label>
             <language>en</language>
-            <name>x_snc_visman_invitation</name>
-            <sequence>15</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-01 14:15:01</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>24dd2985db241050282fccd813961971</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:15:01</sys_updated_on>
-            <value>15</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Invites sent</label>
-            <language>en</language>
-            <name>x_snc_visman_invitation</name>
+            <name>x_snc_visman_rsvp</name>
             <sequence>20</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-01 11:08:25</sys_created_on>
+            <sys_created_on>2020-05-01 13:57:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bc034d4ddb201050282fccd8139619a6</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>dfd9a1cddbe01050282fccd8139619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:26:52</sys_updated_on>
+            <sys_updated_on>2020-05-01 13:57:43</sys_updated_on>
             <value>20</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -62,37 +62,18 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Invites Partially Accepted</label>
+            <label>Rejected</label>
             <language>en</language>
-            <name>x_snc_visman_invitation</name>
-            <sequence>25</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-01 14:27:23</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>f5a0f989db241050282fccd8139619ed</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:27:23</sys_updated_on>
-            <value>25</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Invites Accepted</label>
-            <language>en</language>
-            <name>x_snc_visman_invitation</name>
+            <name>x_snc_visman_rsvp</name>
             <sequence>30</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-01 11:08:52</sys_created_on>
+            <sys_created_on>2020-05-01 13:57:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8c33418ddb201050282fccd813961989</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_id>dcf9a9cddbe01050282fccd81396194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-01 14:26:59</sys_updated_on>
+            <sys_updated_on>2020-05-01 13:57:56</sys_updated_on>
             <value>30</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -102,33 +83,33 @@
             <inactive>false</inactive>
             <label>Cancelled</label>
             <language>en</language>
-            <name>x_snc_visman_invitation</name>
+            <name>x_snc_visman_rsvp</name>
             <sequence>40</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-01 11:09:05</sys_created_on>
+            <sys_created_on>2020-05-01 13:58:13</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6e43c18ddb201050282fccd8139619d0</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>dc0ae9cddbe01050282fccd8139619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-01 11:09:30</sys_updated_on>
+            <sys_updated_on>2020-05-01 13:58:13</sys_updated_on>
             <value>40</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
-            <name>x_snc_visman_invitation</name>
+            <name>x_snc_visman_rsvp</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-05-01 11:07:33</sys_created_on>
-            <sys_id>6ef2894ddb201050282fccd813961983</sys_id>
+            <sys_created_on>2020-05-01 13:57:24</sys_created_on>
+            <sys_id>b2d921cddbe01050282fccd8139619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
             <sys_policy/>
             <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-            <sys_update_name>sys_choice_x_snc_visman_invitation_state</sys_update_name>
+            <sys_update_name>sys_choice_x_snc_visman_rsvp_state</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-05-01 11:07:33</sys_updated_on>
+            <sys_updated_on>2020-05-01 13:57:24</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

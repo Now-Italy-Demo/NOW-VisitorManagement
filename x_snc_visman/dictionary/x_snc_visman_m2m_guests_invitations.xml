@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Visman M2m Guests Invitations" max_length="40" name="x_snc_visman_m2m_guests_invitations" type="collection">
+        <element attributes="encode_utf8=false" label="Guest" max_length="32" name="guest" reference="x_snc_visman_guest" type="reference"/>
+        <element attributes="encode_utf8=false" label="Invitation" max_length="32" name="invitation" reference="x_snc_visman_invitation" type="reference"/>
+        <index name="index">
+            <element name="invitation"/>
+        </index>
+        <index name="index2">
+            <element name="guest"/>
+        </index>
+    </element>
+</database>
