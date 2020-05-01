@@ -11,8 +11,8 @@
         <copied_from_name/>
         <description/>
         <internal_name>send_invitations_to_guests</internal_name>
-        <label_cache>[{"name":"4b3d3cc4-bdb3-4e25-a854-bce0ff815d39.table_name","label":"2.3.1.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4b3d3cc4-bdb3-4e25-a854-bce0ff815d39.record","label":"2.3.1.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"255513d1-7610-4d28-a9fb-8a0bfb414318.item.guest.email","label":"2.3.1➛RSVP Record➛Guest➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"x_snc_visman_guest","column_name":"email"},{"name":"80789ac9-61f9-452c-b635-238a6a40e501.email","label":"2.3.1.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"255513d1-7610-4d28-a9fb-8a0bfb414318.item","label":"2.3.1➛RSVP Record","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"0e975cc8-fee2-4285-a5c8-c8ca86d0dfff.Records","label":"1➛Visman M2m Guests Invitations Records","reference":"x_snc_visman_m2m_guests_invitations","reference_display":"Visman M2m Guests Invitations","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0e975cc8-fee2-4285-a5c8-c8ca86d0dfff.Table","label":"1➛Visman M2m Guests Invitations Table","reference":"x_snc_visman_m2m_guests_invitations","reference_display":"Visman M2m Guests Invitations","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0e975cc8-fee2-4285-a5c8-c8ca86d0dfff.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current","label":"Trigger➛Invitation Record","reference":"x_snc_visman_invitation","reference_display":"Invitation","type":"reference","base_type":"reference","attributes":{}},{"name":"6ba0acfb-589a-479c-8196-fad3474aabba.item","label":"2.1➛Visman M2m Guests Invitations Record","reference":"x_snc_visman_m2m_guests_invitations","reference_display":"Visman M2m Guests Invitations","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"9b2ce02a-12d0-4705-a93d-4032092a0234.record","label":"2.1.1➛RSVP Record","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9b2ce02a-12d0-4705-a93d-4032092a0234.table_name","label":"2.1.1➛RSVP Table","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6ba0acfb-589a-479c-8196-fad3474aabba.item.guest","label":"2.1➛Visman M2m Guests Invitations Record➛Guest","reference":"x_snc_visman_guest","reference_display":"Guest","type":"reference","base_type":"reference","parent_table_name":"x_snc_visman_m2m_guests_invitations","column_name":"guest"},{"name":"4f7bebc7-abeb-4db9-a3a1-294da92b1db4.Records","label":"2.2➛RSVP Records","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4f7bebc7-abeb-4db9-a3a1-294da92b1db4.Table","label":"2.2➛RSVP Table","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4f7bebc7-abeb-4db9-a3a1-294da92b1db4.Count","label":"2.2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"393218d2-ccf5-4337-add5-08cdb28b6f48.email","label":"2.3.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
-        <latest_snapshot>68ab6581db241050282fccd8139619d7</latest_snapshot>
+        <label_cache>[{"name":"3f973a77-2be4-4263-be53-bf517d2f10ec.table_name","label":"2.4➛Invitation Table","reference":"x_snc_visman_invitation","reference_display":"Invitation","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3f973a77-2be4-4263-be53-bf517d2f10ec.record","label":"2.4➛Invitation Record","reference":"x_snc_visman_invitation","reference_display":"Invitation","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5b27fd8d-bbc0-4cb8-bad8-23ab5bb1b7a4.table_name","label":"2.3.2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5b27fd8d-bbc0-4cb8-bad8-23ab5bb1b7a4.record","label":"2.3.2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"393218d2-ccf5-4337-add5-08cdb28b6f48.email","label":"2.3.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4f7bebc7-abeb-4db9-a3a1-294da92b1db4.Count","label":"2.2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4f7bebc7-abeb-4db9-a3a1-294da92b1db4.Table","label":"2.2➛RSVP Table","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4f7bebc7-abeb-4db9-a3a1-294da92b1db4.Records","label":"2.2➛RSVP Records","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6ba0acfb-589a-479c-8196-fad3474aabba.item.guest","label":"2.1➛Visman M2m Guests Invitations Record➛Guest","reference":"x_snc_visman_guest","reference_display":"Guest","type":"reference","base_type":"reference","parent_table_name":"x_snc_visman_m2m_guests_invitations","column_name":"guest"},{"name":"9b2ce02a-12d0-4705-a93d-4032092a0234.table_name","label":"2.1.1➛RSVP Table","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9b2ce02a-12d0-4705-a93d-4032092a0234.record","label":"2.1.1➛RSVP Record","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6ba0acfb-589a-479c-8196-fad3474aabba.item","label":"2.1➛Visman M2m Guests Invitations Record","reference":"x_snc_visman_m2m_guests_invitations","reference_display":"Visman M2m Guests Invitations","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"Updated_1.current","label":"Trigger➛Invitation Record","reference":"x_snc_visman_invitation","reference_display":"Invitation","type":"reference","base_type":"reference","attributes":{}},{"name":"0e975cc8-fee2-4285-a5c8-c8ca86d0dfff.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0e975cc8-fee2-4285-a5c8-c8ca86d0dfff.Table","label":"1➛Visman M2m Guests Invitations Table","reference":"x_snc_visman_m2m_guests_invitations","reference_display":"Visman M2m Guests Invitations","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0e975cc8-fee2-4285-a5c8-c8ca86d0dfff.Records","label":"1➛Visman M2m Guests Invitations Records","reference":"x_snc_visman_m2m_guests_invitations","reference_display":"Visman M2m Guests Invitations","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"255513d1-7610-4d28-a9fb-8a0bfb414318.item","label":"2.3.1➛RSVP Record","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"80789ac9-61f9-452c-b635-238a6a40e501.email","label":"2.3.1.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"255513d1-7610-4d28-a9fb-8a0bfb414318.item.guest.email","label":"2.3.1➛RSVP Record➛Guest➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"x_snc_visman_guest","column_name":"email"},{"name":"4b3d3cc4-bdb3-4e25-a854-bce0ff815d39.record","label":"2.3.1.1➛RSVP Record","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4b3d3cc4-bdb3-4e25-a854-bce0ff815d39.table_name","label":"2.3.1.1➛RSVP Table","reference":"x_snc_visman_rsvp","reference_display":"RSVP","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <latest_snapshot>4e27350d1be0dc1044a755ff5b4bcb50</latest_snapshot>
         <master_snapshot>68ab6581db241050282fccd8139619d7</master_snapshot>
         <name>Send Invitations to Guests</name>
         <natlang/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e11ba541db241050282fccd813961938</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_name>Send Invitations to Guests</sys_name>
         <sys_overrides/>
         <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name>sys_hub_flow_e11ba541db241050282fccd813961938</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:15</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:59</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=e11ba541db241050282fccd813961938"/>
@@ -68,7 +68,7 @@
         <sys_updated_on>2020-05-01 14:19:54</sys_updated_on>
         <table>x_snc_visman_invitation</table>
     </sys_flow_record_trigger>
-    <sys_hub_flow_component action="delete_multiple" query="flow=e11ba541db241050282fccd813961938^sys_idNOT IN17df6949db241050282fccd813961912,26807989db241050282fccd81396193e,53df6949db241050282fccd81396190b,7a807989db241050282fccd813961942,7a9be181db241050282fccd8139619ff,a75ca9c1db241050282fccd8139619b9,f69be181db241050282fccd8139619f7,fa9be181db241050282fccd8139619fc"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=e11ba541db241050282fccd813961938^sys_idNOT IN17df6949db241050282fccd813961912,26807989db241050282fccd81396193e,53df6949db241050282fccd81396190b,7a807989db241050282fccd813961942,7a9be181db241050282fccd8139619ff,a75ca9c1db241050282fccd8139619b9,e6f6f905db641050282fccd81396199f,f69be181db241050282fccd8139619f7,fa9be181db241050282fccd8139619fc"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">1bdf6949db241050282fccd813961911</block>
         <comment/>
@@ -89,10 +89,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:23:40</sys_created_on>
         <sys_id>17df6949db241050282fccd813961912</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:15</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:59</sys_updated_on>
         <ui_id>93eea9cf-705f-4a00-a481-5eefb59642bb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -143,7 +143,7 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Send Invitations to Guests">e11ba541db241050282fccd813961938</flow>
         <order>2.3.1.1</order>
@@ -152,10 +152,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:26:37</sys_created_on>
         <sys_id>26807989db241050282fccd81396193e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>4b3d3cc4-bdb3-4e25-a854-bce0ff815d39</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=26807989db241050282fccd81396193e"/>
@@ -230,7 +230,7 @@
         <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
         <action_type_parent/>
         <comment>Collect all the RSVP records related to the invitation</comment>
-        <compiled_snapshot/>
+        <compiled_snapshot>ca07ee090b30030085c083eb37673afc</compiled_snapshot>
         <display_text/>
         <flow display_value="Send Invitations to Guests">e11ba541db241050282fccd813961938</flow>
         <order>2.2</order>
@@ -239,10 +239,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:23:40</sys_created_on>
         <sys_id>53df6949db241050282fccd81396190b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>4f7bebc7-abeb-4db9-a3a1-294da92b1db4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=53df6949db241050282fccd81396190b"/>
@@ -267,11 +267,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:23:40</sys_created_on>
         <sys_id>dbdf6949db241050282fccd81396190c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:23:40</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:43:05</sys_updated_on>
         <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
-        <value>invitation={{Updated_1.current}}</value>
+        <value>invitation={{Updated_1.current}}^state=5</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -305,10 +305,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:26:37</sys_created_on>
         <sys_id>7a807989db241050282fccd813961942</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:59</sys_updated_on>
         <ui_id>255513d1-7610-4d28-a9fb-8a0bfb414318</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -347,10 +347,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:04</sys_created_on>
         <sys_id>7a9be181db241050282fccd8139619ff</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <ui_id>6ba0acfb-589a-479c-8196-fad3474aabba</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -389,10 +389,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:08:23</sys_created_on>
         <sys_id>a75ca9c1db241050282fccd8139619b9</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:15</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:59</sys_updated_on>
         <ui_id>a9a48f63-847d-4600-becd-3583a16747e2</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -440,6 +440,93 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent/>
+        <comment>Set "Invites sent" on invitation record</comment>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Send Invitations to Guests">e11ba541db241050282fccd813961938</flow>
+        <order>2.4</order>
+        <parent_ui_id>a9a48f63-847d-4600-becd-3583a16747e2</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>e6f6f905db641050282fccd81396199f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
+        <ui_id>3f973a77-2be4-4263-be53-bf517d2f10ec</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e6f6f905db641050282fccd81396199f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e6f6f905db641050282fccd81396199f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>62f6f905db641050282fccd8139619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <value>state=20</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e6f6f905db641050282fccd81396199f</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>eaf6f905db641050282fccd8139619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <value>x_snc_visman_invitation</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=e6f6f905db641050282fccd81396199f"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>e6f6f905db641050282fccd81396199f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>2ef6f905db641050282fccd8139619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>e6f6f905db641050282fccd81396199f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>e2f6f905db641050282fccd8139619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>e6f6f905db641050282fccd81396199f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>eef6f905db641050282fccd8139619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
         <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
         <action_type_parent/>
         <comment>Collect all the guests related to the invitation</comment>
@@ -452,10 +539,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:03</sys_created_on>
         <sys_id>f69be181db241050282fccd8139619f7</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>50</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>0e975cc8-fee2-4285-a5c8-c8ca86d0dfff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f69be181db241050282fccd8139619f7"/>
@@ -513,10 +600,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:04</sys_created_on>
         <sys_id>fa9be181db241050282fccd8139619fc</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>50</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>9b2ce02a-12d0-4705-a93d-4032092a0234</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fa9be181db241050282fccd8139619fc"/>
@@ -569,10 +656,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:03</sys_created_on>
         <sys_id>f29be181db241050282fccd8139619f2</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -638,7 +725,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FD0751fdc9ee2410503070cfeb32df8059,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDd507bd05ca64105050bfc2e2d954884e,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -696,14 +783,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:03</sys_created_on>
         <sys_id>329be181db241050282fccd8139619e4</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -777,14 +864,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:03</sys_created_on>
         <sys_id>ea9be941db241050282fccd8139619b2</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -858,14 +945,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:03</sys_created_on>
         <sys_id>f29be181db241050282fccd8139619ea</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -877,14 +964,14 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_instance action="delete_multiple" query="flow=e11ba541db241050282fccd813961938^sys_idNOT IN26807989db241050282fccd81396193e,53df6949db241050282fccd81396190b,f69be181db241050282fccd8139619f7,fa9be181db241050282fccd8139619fc"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=e11ba541db241050282fccd813961938^sys_idNOT IN26807989db241050282fccd81396193e,53df6949db241050282fccd81396190b,e6f6f905db641050282fccd81396199f,f69be181db241050282fccd8139619f7,fa9be181db241050282fccd8139619fc"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Send Invitations to Guests">e11ba541db241050282fccd813961938</flow>
         <order>2.3.1.1</order>
@@ -893,10 +980,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:26:37</sys_created_on>
         <sys_id>26807989db241050282fccd81396193e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>4b3d3cc4-bdb3-4e25-a854-bce0ff815d39</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=26807989db241050282fccd81396193e"/>
@@ -971,7 +1058,7 @@
         <action_type display_value="Look Up Records">ca07ee090b30030085c083eb37673afc</action_type>
         <action_type_parent/>
         <comment>Collect all the RSVP records related to the invitation</comment>
-        <compiled_snapshot/>
+        <compiled_snapshot>ca07ee090b30030085c083eb37673afc</compiled_snapshot>
         <display_text/>
         <flow display_value="Send Invitations to Guests">e11ba541db241050282fccd813961938</flow>
         <order>2.2</order>
@@ -980,10 +1067,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:23:40</sys_created_on>
         <sys_id>53df6949db241050282fccd81396190b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>4f7bebc7-abeb-4db9-a3a1-294da92b1db4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=53df6949db241050282fccd81396190b"/>
@@ -1008,11 +1095,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:23:40</sys_created_on>
         <sys_id>dbdf6949db241050282fccd81396190c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:23:40</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:43:05</sys_updated_on>
         <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
-        <value>invitation={{Updated_1.current}}</value>
+        <value>invitation={{Updated_1.current}}^state=5</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -1024,6 +1111,93 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-05-01 14:23:40</sys_updated_on>
         <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent/>
+        <comment>Set "Invites sent" on invitation record</comment>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Send Invitations to Guests">e11ba541db241050282fccd813961938</flow>
+        <order>2.4</order>
+        <parent_ui_id>a9a48f63-847d-4600-becd-3583a16747e2</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>e6f6f905db641050282fccd81396199f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
+        <ui_id>3f973a77-2be4-4263-be53-bf517d2f10ec</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e6f6f905db641050282fccd81396199f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e6f6f905db641050282fccd81396199f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>62f6f905db641050282fccd8139619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <value>state=20</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e6f6f905db641050282fccd81396199f</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>eaf6f905db641050282fccd8139619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <value>x_snc_visman_invitation</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=e6f6f905db641050282fccd81396199f"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>e6f6f905db641050282fccd81396199f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>2ef6f905db641050282fccd8139619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>e6f6f905db641050282fccd81396199f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>e2f6f905db641050282fccd8139619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>e6f6f905db641050282fccd81396199f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:44</sys_created_on>
+        <sys_id>eef6f905db641050282fccd8139619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:44</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
         <value/>
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1041,10 +1215,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:03</sys_created_on>
         <sys_id>f69be181db241050282fccd8139619f7</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>50</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>0e975cc8-fee2-4285-a5c8-c8ca86d0dfff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f69be181db241050282fccd8139619f7"/>
@@ -1102,10 +1276,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:04</sys_created_on>
         <sys_id>fa9be181db241050282fccd8139619fc</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>50</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:55:35</sys_updated_on>
         <ui_id>9b2ce02a-12d0-4705-a93d-4032092a0234</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fa9be181db241050282fccd8139619fc"/>
@@ -1169,10 +1343,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:23:40</sys_created_on>
         <sys_id>17df6949db241050282fccd813961912</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:15</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:59</sys_updated_on>
         <ui_id>93eea9cf-705f-4a00-a481-5eefb59642bb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1237,10 +1411,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:26:37</sys_created_on>
         <sys_id>7a807989db241050282fccd813961942</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:59</sys_updated_on>
         <ui_id>255513d1-7610-4d28-a9fb-8a0bfb414318</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1279,10 +1453,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:04</sys_created_on>
         <sys_id>7a9be181db241050282fccd8139619ff</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <ui_id>6ba0acfb-589a-479c-8196-fad3474aabba</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1321,10 +1495,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:08:23</sys_created_on>
         <sys_id>a75ca9c1db241050282fccd8139619b9</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:15</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:59</sys_updated_on>
         <ui_id>a9a48f63-847d-4600-becd-3583a16747e2</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1444,17 +1618,17 @@
         <binding_strategy>com.snc.process_flow.engine.binding.Every</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"85aba581db241050282fccd813961960","name":"plan"}}</plan>
         <plan_id>e11ba541db241050282fccd813961938</plan_id>
-        <snapshot>68ab6581db241050282fccd8139619d7</snapshot>
+        <snapshot>4e27350d1be0dc1044a755ff5b4bcb50</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:12</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>85aba581db241050282fccd813961960</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <trigger display_value="">49aba581db241050282fccd81396195f</trigger>
     </sys_flow_trigger_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
@@ -1484,7 +1658,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>68ab6581db241050282fccd8139619d7</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1492,12 +1666,12 @@
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:13</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:57</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=68ab6581db241050282fccd8139619d7"/>
     <sys_variable_value action="delete_multiple" query="document_key=68ab6581db241050282fccd8139619d7"/>
-    <sys_hub_flow_component action="delete_multiple" query="flow=68ab6581db241050282fccd8139619d7^sys_idNOT IN356c2dc1db241050282fccd8139619f3,38aba581db241050282fccd813961943,3e51fdc9db241050282fccd813961944,70aba581db241050282fccd813961948,7251fdc9db241050282fccd813961950,7e51fdc9db241050282fccd81396193e,fcaba581db241050282fccd81396193c,fe51fdc9db241050282fccd81396194c"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=68ab6581db241050282fccd8139619d7^sys_idNOT IN356c2dc1db241050282fccd8139619f3,38aba581db241050282fccd813961943,3e51fdc9db241050282fccd813961944,5107bd05db641050282fccd81396192b,70aba581db241050282fccd813961948,7251fdc9db241050282fccd813961950,7e51fdc9db241050282fccd81396193e,fcaba581db241050282fccd81396193c,fe51fdc9db241050282fccd81396194c"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">eb5ca9c1db241050282fccd8139619b8</block>
         <comment/>
@@ -1518,10 +1692,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:08:32</sys_created_on>
         <sys_id>356c2dc1db241050282fccd8139619f3</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>a9a48f63-847d-4600-becd-3583a16747e2</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1581,10 +1755,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:12</sys_created_on>
         <sys_id>38aba581db241050282fccd813961943</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>0e975cc8-fee2-4285-a5c8-c8ca86d0dfff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=38aba581db241050282fccd813961943"/>
@@ -1642,10 +1816,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>3e51fdc9db241050282fccd813961944</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>4b3d3cc4-bdb3-4e25-a854-bce0ff815d39</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3e51fdc9db241050282fccd813961944"/>
@@ -1717,6 +1891,93 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <comment>Set "Invites sent" on invitation record</comment>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Send Invitations to Guests">68ab6581db241050282fccd8139619d7</flow>
+        <order>2.4</order>
+        <parent_ui_id>a9a48f63-847d-4600-becd-3583a16747e2</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>5107bd05db641050282fccd81396192b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
+        <ui_id>3f973a77-2be4-4263-be53-bf517d2f10ec</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=5107bd05db641050282fccd81396192b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5107bd05db641050282fccd81396192b</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>5d07bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <value>x_snc_visman_invitation</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5107bd05db641050282fccd81396192b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>9907bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <value>state=20</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=5107bd05db641050282fccd81396192b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>5107bd05db641050282fccd81396192b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>5507bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>5107bd05db641050282fccd81396192b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>9107bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>5107bd05db641050282fccd81396192b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>1907bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
         <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
         <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
         <comment/>
@@ -1729,10 +1990,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:12</sys_created_on>
         <sys_id>70aba581db241050282fccd813961948</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>9b2ce02a-12d0-4705-a93d-4032092a0234</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=70aba581db241050282fccd813961948"/>
@@ -1795,10 +2056,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>7251fdc9db241050282fccd813961950</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>93eea9cf-705f-4a00-a481-5eefb59642bb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1858,10 +2119,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>7e51fdc9db241050282fccd81396193e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>4f7bebc7-abeb-4db9-a3a1-294da92b1db4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7e51fdc9db241050282fccd81396193e"/>
@@ -1886,11 +2147,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>f651fdc9db241050282fccd813961940</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:11</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:43:56</sys_updated_on>
         <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
-        <value>invitation={{Updated_1.current}}</value>
+        <value>invitation={{Updated_1.current}}^state=5</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -1924,10 +2185,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:11</sys_created_on>
         <sys_id>fcaba581db241050282fccd81396193c</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>6ba0acfb-589a-479c-8196-fad3474aabba</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1966,10 +2227,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>fe51fdc9db241050282fccd81396194c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>255513d1-7610-4d28-a9fb-8a0bfb414318</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1998,10 +2259,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:12</sys_created_on>
         <sys_id>78aba581db241050282fccd813961949</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:14</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:58</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -2125,14 +2386,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:11</sys_created_on>
         <sys_id>a0aba581db241050282fccd813961901</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2148,7 +2409,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FD0751fdc9ee2410503070cfeb32df8059,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDd507bd05ca64105050bfc2e2d954884e,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -2206,14 +2467,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:11</sys_created_on>
         <sys_id>b0aba581db241050282fccd813961926</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2287,14 +2548,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:11</sys_created_on>
         <sys_id>bcaba581db241050282fccd81396192f</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:11</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2306,7 +2567,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_instance action="delete_multiple" query="flow=68ab6581db241050282fccd8139619d7^sys_idNOT IN38aba581db241050282fccd813961943,3e51fdc9db241050282fccd813961944,70aba581db241050282fccd813961948,7e51fdc9db241050282fccd81396193e"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=68ab6581db241050282fccd8139619d7^sys_idNOT IN38aba581db241050282fccd813961943,3e51fdc9db241050282fccd813961944,5107bd05db641050282fccd81396192b,70aba581db241050282fccd813961948,7e51fdc9db241050282fccd81396193e"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -2322,10 +2583,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:12</sys_created_on>
         <sys_id>38aba581db241050282fccd813961943</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>0e975cc8-fee2-4285-a5c8-c8ca86d0dfff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=38aba581db241050282fccd813961943"/>
@@ -2383,10 +2644,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>3e51fdc9db241050282fccd813961944</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>4b3d3cc4-bdb3-4e25-a854-bce0ff815d39</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3e51fdc9db241050282fccd813961944"/>
@@ -2458,6 +2719,93 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <comment>Set "Invites sent" on invitation record</comment>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Send Invitations to Guests">68ab6581db241050282fccd8139619d7</flow>
+        <order>2.4</order>
+        <parent_ui_id>a9a48f63-847d-4600-becd-3583a16747e2</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>5107bd05db641050282fccd81396192b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
+        <ui_id>3f973a77-2be4-4263-be53-bf517d2f10ec</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=5107bd05db641050282fccd81396192b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5107bd05db641050282fccd81396192b</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>5d07bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <value>x_snc_visman_invitation</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5107bd05db641050282fccd81396192b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>9907bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <value>state=20</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=5107bd05db641050282fccd81396192b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>5107bd05db641050282fccd81396192b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>5507bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>5107bd05db641050282fccd81396192b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>9107bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>5107bd05db641050282fccd81396192b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 14:54:55</sys_created_on>
+        <sys_id>1907bd05db641050282fccd81396192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:54:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
         <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
         <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
         <comment/>
@@ -2470,10 +2818,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:12</sys_created_on>
         <sys_id>70aba581db241050282fccd813961948</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>9b2ce02a-12d0-4705-a93d-4032092a0234</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=70aba581db241050282fccd813961948"/>
@@ -2531,10 +2879,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>7e51fdc9db241050282fccd81396193e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>4f7bebc7-abeb-4db9-a3a1-294da92b1db4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7e51fdc9db241050282fccd81396193e"/>
@@ -2559,11 +2907,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>f651fdc9db241050282fccd813961940</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:11</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:43:56</sys_updated_on>
         <table>var__m_sys_hub_action_input_ca07ee090b30030085c083eb37673afc</table>
-        <value>invitation={{Updated_1.current}}</value>
+        <value>invitation={{Updated_1.current}}^state=5</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -2598,10 +2946,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:08:32</sys_created_on>
         <sys_id>356c2dc1db241050282fccd8139619f3</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>a9a48f63-847d-4600-becd-3583a16747e2</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2666,10 +3014,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>7251fdc9db241050282fccd813961950</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>93eea9cf-705f-4a00-a481-5eefb59642bb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2734,10 +3082,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:05:11</sys_created_on>
         <sys_id>fcaba581db241050282fccd81396193c</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>6ba0acfb-589a-479c-8196-fad3474aabba</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2776,10 +3124,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-01 14:30:11</sys_created_on>
         <sys_id>fe51fdc9db241050282fccd81396194c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-01 14:30:12</sys_updated_on>
+        <sys_updated_on>2020-05-01 14:54:56</sys_updated_on>
         <ui_id>255513d1-7610-4d28-a9fb-8a0bfb414318</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
