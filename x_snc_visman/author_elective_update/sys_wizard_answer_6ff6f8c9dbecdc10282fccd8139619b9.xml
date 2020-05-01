@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Visit</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Visit</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">dfd09b86db10101044ea30d8689619d9</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:15:11</sys_created_on>
+        <sys_id>6ff6f8c9dbecdc10282fccd8139619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visit</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_wizard_answer_6ff6f8c9dbecdc10282fccd8139619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:15:11</sys_updated_on>
+        <table/>
+        <target_url>x_snc_visman_visit.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</application>
+        <file_path/>
+        <instance_id>73fccf0adbdc1058f37acac50596190c</instance_id>
+        <instance_name>siademo</instance_name>
+        <name>sys_wizard_answer_6ff6f8c9dbecdc10282fccd8139619b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Visit</answer><button_label/><dependent_value/><element/><name>Visit</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">dfd09b86db10101044ea30d8689619d9</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 10:15:11</sys_created_on><sys_id>6ff6f8c9dbecdc10282fccd8139619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Visit</sys_name><sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package><sys_policy/><sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope><sys_update_name>sys_wizard_answer_6ff6f8c9dbecdc10282fccd8139619b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 10:15:11</sys_updated_on><table/><target_url>x_snc_visman_visit.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1765419364</payload_hash>
+        <record_name>Visit</record_name>
+        <reverted_from/>
+        <source>1f92a302db10101044ea30d8689619d5</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-04-22 15:03:15</sys_created_on>
+        <sys_id>5749f4cddbecdc10282fccd81396194d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>171a26a1b380000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>1749f4cd0fecdc109e9af9b6d2ca414d</update_guid>
+        <update_guid_history>1749f4cd0fecdc109e9af9b6d2ca414d:-1765419364</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:25:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>c1a2a0b44f6e4dc090acdd43d736da40</sys_id>
+        <sys_metadata>6ff6f8c9dbecdc10282fccd8139619b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visit</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_parent display_value="Task">dfd09b86db10101044ea30d8689619d9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_scope_delete display_value="">271ff2eb992c41e4bb7b284b7c7c5204</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_6ff6f8c9dbecdc10282fccd8139619b9</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_6ff6f8c9dbecdc10282fccd8139619b9">5749f4cddbecdc10282fccd81396194d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:25:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

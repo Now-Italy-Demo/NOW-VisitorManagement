@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_snc_visman_visit</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:15:16</sys_created_on>
+        <sys_id>e4073cc9dbecdc10282fccd8139619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_visman_visit</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_update_name>sys_security_acl_e4073cc9dbecdc10282fccd8139619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:15:16</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</application>
+        <file_path/>
+        <instance_id>73fccf0adbdc1058f37acac50596190c</instance_id>
+        <instance_name>siademo</instance_name>
+        <name>sys_security_acl_e4073cc9dbecdc10282fccd8139619eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_visman_visit</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 10:15:16</sys_created_on><sys_id>e4073cc9dbecdc10282fccd8139619eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_visman_visit</sys_name><sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package><sys_policy/><sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope><sys_update_name>sys_security_acl_e4073cc9dbecdc10282fccd8139619eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 10:15:16</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>68439895</payload_hash>
+        <record_name>x_snc_visman_visit</record_name>
+        <reverted_from/>
+        <source>2756b089dbecdc10282fccd813961978</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:15:16</sys_created_on>
+        <sys_id>64073cc9dbecdc10282fccd8139619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171cfbbafa00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:15:16</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>6c073cc93aecdc10c6a52b050f6de0ee</update_guid>
+        <update_guid_history>6c073cc93aecdc10c6a52b050f6de0ee:68439895</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 10:25:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>4be87ac71d4848ec90bf201019314a64</sys_id>
+        <sys_metadata>e4073cc9dbecdc10282fccd8139619eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_visman_visit</sys_name>
+        <sys_package display_value="VisitorManagement" source="x_snc_visman">2b56b089dbecdc10282fccd813961975</sys_package>
+        <sys_parent display_value="">aff6f8c9dbecdc10282fccd8139619bb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="VisitorManagement">2b56b089dbecdc10282fccd813961975</sys_scope>
+        <sys_scope_delete display_value="">271ff2eb992c41e4bb7b284b7c7c5204</sys_scope_delete>
+        <sys_update_name>sys_security_acl_e4073cc9dbecdc10282fccd8139619eb</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_e4073cc9dbecdc10282fccd8139619eb">64073cc9dbecdc10282fccd8139619ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 10:25:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
